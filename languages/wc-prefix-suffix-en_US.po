@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Prefix Suffix\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-19 17:39+0000\n"
+"PO-Revision-Date: 2021-04-19 19:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: wc-prefix-suffix"
+
+#: wc-prefix-suffix.php:39
+msgid "Etuliite hinnalle"
+msgstr "Prefix for price"
+
+#: wc-prefix-suffix.php:48
+msgid "Pääte hinnalle"
+msgstr "Suffix for price"
+
+#. Author of the plugin
+msgid "Toni Manninen"
+msgstr "Toni Manninen"
+
+#. Description of the plugin
+msgid ""
+"Tämä lisäosa lisää mahdollisuuden lisätä tuotteen hinnalle etuliitteen ja "
+"päätteen."
+msgstr "This plugin allows you to add prefixes and suffixes for any product."
+
+#: wc-prefix-suffix.php:42
+msgid "Tämä teksti näkyy ennen hintaa tuote ja kategoria sivuilla."
+msgstr "This texts shows before price in product and category pages."
+
+#: wc-prefix-suffix.php:51
+msgid "Tämä teksti näkyy hinnan jälkeen tuote ja kategoria sivuilla."
+msgstr "This text shows after price in product and category pages."
+
+#. Name of the plugin
+msgid "WooCommerce Prefix Suffix"
+msgstr "WooCommerce Prefix Suffix"
